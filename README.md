@@ -2,6 +2,14 @@
 
 Repository has code solution for complex problems 
 
+## Video Walkthrough 
+
+Here's a walkthrough of completed Checkpoints:
+
+<img src='./interviewbit.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Checkpoint 1: Time Complexity
 
 **Solution:** O(n)
