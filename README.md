@@ -35,7 +35,7 @@ Output:
 
 ## Checkpoint 3:
 
-### Kth Smallest Element in the Array
+### 1. Kth Smallest Element in the Array
 
 Find the kth smallest element in an unsorted array of non-negative integers.
 
@@ -47,9 +47,9 @@ k : 3
 
 Output: 2
 
-**Solution:**
+**Solution:** [KthSmallest.java](KthSmallest.java)
 
-### NUMRANGE
+### 2. NUMRANGE
 
 Given an array of non negative integers A, and a range (B, C), find the number of continuous subsequences in the array which have sum S in the range [B, C] or B <= S <= C
 
