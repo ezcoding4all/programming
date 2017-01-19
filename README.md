@@ -30,5 +30,4 @@ Output:
 
 4 4 4 4 4 4 4 
 
-Solution: 
-
+Solution: [PrettyPrint.java](PrettyPrint.java)
