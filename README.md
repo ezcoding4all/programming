@@ -52,7 +52,7 @@ Example:
 
 Input:  
 A : [10, 5, 1, 0, 2]  
-(B, C) : (6, 8)  
+B, C : (6, 8)  
 
 Output: 3
 
