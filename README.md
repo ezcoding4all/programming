@@ -4,7 +4,7 @@ Repository has code solution for complex problems
 
 ## Checkpoint 1: Time Complexity
 
-Solution: O(n)
+**Solution:** O(n)
 
 ## Checkpoint 2: PRETTYPRINT
 
@@ -16,18 +16,30 @@ Input: A = 4.
 
 Output:
 
-4 4 4 4 4 4 4 
+4 4 4 4 4 4 4  
+4 3 3 3 3 3 4  
+4 3 2 2 2 3 4  
+4 3 2 1 2 3 4  
+4 3 2 2 2 3 4  
+4 3 3 3 3 3 4  
+4 4 4 4 4 4 4  
 
-4 3 3 3 3 3 4 
+**Solution:** [PrettyPrint.java](PrettyPrint.java)
 
-4 3 2 2 2 3 4 
+## Checkpoint 3:
 
-4 3 2 1 2 3 4 
+### Kth Smallest Element in the Array
 
-4 3 2 2 2 3 4 
+Find the kth smallest element in an unsorted array of non-negative integers.
 
-4 3 3 3 3 3 4 
+Input:  
+A : [2 1 4 3 2]  
+k : 3  
 
-4 4 4 4 4 4 4 
+Output: 2
 
-Solution: [PrettyPrint.java](PrettyPrint.java)
+**Solution:**
+
+### 
+
+
