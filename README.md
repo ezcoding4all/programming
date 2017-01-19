@@ -35,6 +35,7 @@ Example:
 
 Input:  
 A : [2 1 4 3 2]  
+
 k : 3  
 
 Output: 2
